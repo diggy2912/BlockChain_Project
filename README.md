@@ -2,34 +2,7 @@
 ## Crowdfunding on web3 
 
 It is a Decentralized Crowdfunding website based on Ethereum blockchain integrated with Metamask for funding ETH to any campaign.
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/satnam2609/Crowdfunding-web3
-```
-
-Go to the project directory
-
-```bash
-  cd crowd-funding
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-Start client side 
-```bash
-  npm run dev
-```
-
  
-
 
 ## Features
 
